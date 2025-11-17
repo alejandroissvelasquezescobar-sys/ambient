@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: rgb(169, 6, 184);
+}
+div{
+    font-size: 130%;
+    color: rgb(1, 61, 1);
+    background-color: rgb(197, 65, 131);
+}
+body{
+    background-color: rgb(241, 129, 152);
+}
+button{
+    color: rgb(1, 14, 1);
+    background-color: rgb(151, 39, 82);
+    font-size: 102%;
+
+}
+input{
+    color: rgb(1, 14, 1);
+    background-color: rgb(150, 0, 57);
+    font-size: 102%;
+}
